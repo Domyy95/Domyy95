@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Dominic 👋
 
 <!--
 **Domyy95/Domyy95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
