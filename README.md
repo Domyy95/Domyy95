@@ -4,8 +4,8 @@ I'm a Data & Software Engineer with a deep passion for solving problems, whether
 
 ### Technologies I Work With 🔧
 
-- **Languages**: 🐍 Python ☕ Java
-- **Tools & Platforms**: 🔀 Git, ☁️ Google Cloud Platform (GCP), 🐋 Docker, 🌀 Apache Airflow, 🚀 FastAPI, 🔍 Elasticsearch, 💧 Dataflow
+- **Languages**: 🐍 Python ☕ Java 🏹 Dart
+- **Tools & Platforms**: 🔀 Git, ☁️ Google Cloud Platform (GCP), 🐋 Docker, 🌀 Apache Airflow, 🚀 FastAPI, 🔍 Elasticsearch, 💧 Dataflow and more! 
 
 ### Hobbies & Interests 🏆
 - 💻 **Coding Challenges**: I love solving problems through competitive programming. Check out my programming challenges [here](https://github.com/Domyy95/Challenges).
